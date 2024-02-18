@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=MIYQR-Ybrn4&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=1&ab_channel=GreatStack
+
+apiurl = https://api.openweathermap.org/data/2.5/weather?q=karachi&appid=b122afbb2706fa11a1a3c9f64d1a0921&units=metric
+
+open weather app = https://openweathermap.org/current
+api key page = https://home.openweathermap.org/api_keys
